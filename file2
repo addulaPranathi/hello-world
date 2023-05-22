@@ -1,4 +1,7 @@
  I am the second file 
  change-1
  change-2 
+<<<<<<< HEAD
  change-3
+=======
+>>>>>>> 50e60ff (changes done)
